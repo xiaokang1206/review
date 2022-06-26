@@ -5,16 +5,20 @@ import domain.Student;
 import java.lang.reflect.InvocationTargetException;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Iterator;
 import java.util.Scanner;
 
 public class ArrayListDemo1 {
     public static void main(String[] args)  {
         ArrayList<String> arrayList=new ArrayList<String>();
 
+
         arrayList.add("hello1");
         arrayList.add("hello2");
         arrayList.add("hello3");
         arrayList.add("hello4");
+
+
 
    /*    arrayList.remove(2);//删除索引为2处的元素
         arrayList.get(2);//获取指定索引的元素
@@ -49,6 +53,7 @@ public class ArrayListDemo1 {
             System.out.println(s.getName()+s.getAge());
         }
 
-
     }
+
+
 }

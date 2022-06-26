@@ -2,7 +2,7 @@ package StringExcise;
 
 import javax.jws.soap.SOAPBinding;
 import java.util.Scanner;
-
+//统计输入字符串中大写字母，小写字母，和数字的个数
 public class JudgeWord {
     public static void main(String[] args) {
 
