@@ -1,5 +1,6 @@
 package collection_excise;
 
+import java.util.Comparator;
 import java.util.TreeSet;
 
 public class TreeSetDemo {
@@ -13,7 +14,7 @@ public class TreeSetDemo {
         treeSet.add(15);
 
         for (Integer integer : treeSet) {
-           // System.out.println(integer);
+           System.out.println(integer);
         }
 
         TreeSet<Student> treeSet1 =new TreeSet<Student>();
@@ -25,9 +26,12 @@ public class TreeSetDemo {
         treeSet1.add(s2);
         treeSet1.add(s3);
         for (Student student : treeSet1) {
-            System.out.println(student.getName()+","+student.getAge());
+           System.out.println(student.getName()+","+student.getAge());
 
         }
+
+
+
 
 
     }
