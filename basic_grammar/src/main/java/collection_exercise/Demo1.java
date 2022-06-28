@@ -1,9 +1,7 @@
-package collection_excise;
+package collection_exercise;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Set;
+import java.util.*;
+
 //array套hash
 public class Demo1 {
     public static void main(String[] args) {
@@ -36,5 +34,7 @@ public class Demo1 {
 
 
         }
+
+
     }
 }

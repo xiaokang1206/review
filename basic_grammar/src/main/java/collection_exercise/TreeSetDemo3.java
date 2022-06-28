@@ -1,6 +1,5 @@
-package collection_excise;
+package collection_exercise;
 
-import java.util.Arrays;
 import java.util.Comparator;
 import java.util.TreeSet;
 

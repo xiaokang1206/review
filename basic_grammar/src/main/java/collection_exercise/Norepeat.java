@@ -1,6 +1,5 @@
-package collection_excise;
+package collection_exercise;
 
-import java.util.HashSet;
 import java.util.Random;
 import java.util.Set;
 import java.util.TreeSet;

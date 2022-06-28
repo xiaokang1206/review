@@ -1,7 +1,4 @@
-package collection_excise;
-
-import java.awt.*;
-import java.util.List;
+package collection_exercise;
 
 public class Generic<T> {
 

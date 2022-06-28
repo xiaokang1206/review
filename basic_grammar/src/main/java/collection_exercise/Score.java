@@ -1,4 +1,4 @@
-package collection_excise;
+package collection_exercise;
 
 public class Score  {
    private String name ;

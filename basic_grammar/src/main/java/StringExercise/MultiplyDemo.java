@@ -1,4 +1,4 @@
-package StringExcise;
+package StringExercise;
 
 public class MultiplyDemo {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package collection_excise;
+package collection_exercise;
 
 import java.util.HashSet;
 import java.util.LinkedHashSet;

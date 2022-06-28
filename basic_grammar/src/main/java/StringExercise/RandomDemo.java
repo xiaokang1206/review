@@ -1,4 +1,4 @@
-package StringExcise;
+package StringExercise;
 
 import java.util.Random;
 import java.util.Scanner;
