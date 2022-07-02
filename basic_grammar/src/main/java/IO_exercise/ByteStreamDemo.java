@@ -10,7 +10,7 @@ import java.io.IOException;
 public class ByteStreamDemo {
     public static void main(String[] args) throws IOException {
         FileOutputStream fos=new FileOutputStream("D:\\io_test\\io_target\\java2.txt");
-        FileInputStream fis=new FileInputStream("D:\\io_test\\io_source\\java.txt");
+        FileInputStream fis=new FileInputStream("D:\\io_test\\io_source\\java2.txt");
 
         int  by;
 
