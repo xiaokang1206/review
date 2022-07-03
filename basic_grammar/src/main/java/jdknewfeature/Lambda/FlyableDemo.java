@@ -1,4 +1,4 @@
-package jdknewcreature.Lambda;
+package jdknewfeature.Lambda;
 
 public class FlyableDemo {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package jdknewcreature.Lambda;
+package jdknewfeature.Lambda;
 
 public class lambdaDemo2 {
     public static void main(String[] args) {
@@ -24,7 +24,10 @@ public class lambdaDemo2 {
      useAddable((x,y)->
         x+y
         );
+
+
     }
+
 
 
 

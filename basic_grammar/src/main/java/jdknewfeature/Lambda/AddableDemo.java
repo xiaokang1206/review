@@ -1,4 +1,4 @@
-package jdknewcreature.Lambda;
+package jdknewfeature.Lambda;
 
 public class AddableDemo {
     public static void main(String[] args) {
